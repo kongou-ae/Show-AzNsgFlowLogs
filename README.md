@@ -2,7 +2,7 @@
 
 Show NSG Flow Logs more clearly
 
-![https://user-images.githubusercontent.com/3410186/72905481-f5a53600-3d73-11ea-8b60-a98bdb446701.png]
+![表示画面](https://user-images.githubusercontent.com/3410186/72905481-f5a53600-3d73-11ea-8b60-a98bdb446701.png)
 
 # Usage
 
